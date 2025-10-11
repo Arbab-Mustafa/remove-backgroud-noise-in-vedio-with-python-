@@ -1,0 +1,9 @@
+moviepy==2.2.1
+noisereduce==3.0.3
+scipy==1.16.2
+numpy>=1.25.0
+matplotlib>=3.10.0
+joblib>=1.5.0
+imageio>=2.5.0
+imageio-ffmpeg>=0.6.0
+pillow>=10.4.0

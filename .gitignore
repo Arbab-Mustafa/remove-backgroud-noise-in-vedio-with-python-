@@ -1,0 +1,14 @@
+venv/
+.env
+*.mp4
+*.wav
+*.mp3
+*.avi
+*.mkv
+*.mov
+*.flv
+*.wmv
+*.webm
+*.gif
+
+*.log
